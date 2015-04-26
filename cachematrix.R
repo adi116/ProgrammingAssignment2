@@ -45,7 +45,7 @@ cacheSolve <- function(x, ...) {
         m
 }
 
-# Reference: this was based on the catchment and catchsolve from the week 2 
+# Reference: this was based on the catchmean and catchsolve from the week 3
 # programming assignment,R Programming by John Hopkins University 
 
 # You may enter the following in the command line to test the above functions
