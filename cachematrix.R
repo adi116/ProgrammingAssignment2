@@ -45,6 +45,9 @@ cacheSolve <- function(x, ...) {
         m
 }
 
+# Reference: this was based on the catchment and catchsolve from the week 2 
+# programming assignment,R Programming by John Hopkins University 
+
 # You may enter the following in the command line to test the above functions
 #> test <- matrix( 
 #   c(2, 4, 3, 1, 5, 7, 3, 4, 6), # the data elements 
